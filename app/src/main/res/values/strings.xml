@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sprint final modulo 4</string>
+
+    <string name="bVolver">Volver</string>
+    <string name="sTodo">TODO</string>
+    <string name="sPelFav">Película favorita</string>
+    <string name="sVer">Ver más</string>
+
+</resources>
